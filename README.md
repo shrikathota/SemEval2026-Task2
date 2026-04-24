@@ -89,18 +89,6 @@ Linear(768 → 2)
 | 2     | 0.5939 |
 | 3     | 0.5013 |
 
----
-
-## Repository Structure
-
-```
-.
-├── Task2_first_try.ipynb   # Main training and inference notebook
-└── README.md
-```
-
----
-
 ## Setup & Usage
 
 ### Requirements
